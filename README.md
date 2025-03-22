@@ -1,5 +1,5 @@
 # Numpy_By_Zeeshan
-# NumPy Project: [Your Project Name]
+
 
 ![NumPy Logo](https://numpy.org/images/logo.svg)  
 *Leveraging the power of NumPy for efficient numerical computing.*
