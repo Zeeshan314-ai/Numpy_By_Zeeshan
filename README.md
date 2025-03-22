@@ -22,8 +22,6 @@ This project demonstrates the use of **NumPy**, a powerful Python library for nu
 ## 🛠️ **Technologies Used**
 - **Python**: The programming language used.
 - **NumPy**: The core library for numerical computations.
-- **Matplotlib** (optional): For data visualization (if applicable).
-- **Jupyter Notebook** (optional): For interactive coding and documentation.
 
 ---
 
